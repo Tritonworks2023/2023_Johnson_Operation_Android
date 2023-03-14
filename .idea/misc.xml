@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../layout/custom_preview.xml" value="0.2101851851851852" />
+        <entry key="app/src/main/res/drawable-v21/green_button_background_with_radius.xml" value="0.1135" />
+        <entry key="app/src/main/res/drawable/general_login_background.xml" value="0.1135" />
+        <entry key="app/src/main/res/drawable/gray_button_background.xml" value="0.1135" />
+        <entry key="app/src/main/res/drawable/rectangle_border_square.xml" value="0.1135" />
+        <entry key="app/src/main/res/layout-land/adapter_worksheet_table_list.xml" value="0.2054673721340388" />
+        <entry key="app/src/main/res/layout-xlarge/adapter_worksheet.xml" value="0.12636612021857924" />
+        <entry key="app/src/main/res/layout/activity_all_job_list.xml" value="0.20380434782608695" />
+        <entry key="app/src/main/res/layout/activity_customer_details.xml" value="0.18840579710144928" />
+        <entry key="app/src/main/res/layout/activity_daily_attendance.xml" value="0.18840579710144928" />
+        <entry key="app/src/main/res/layout/activity_daily_collection_details.xml" value="0.18840579710144928" />
+        <entry key="app/src/main/res/layout/activity_group_list.xml" value="0.18840579710144928" />
+        <entry key="app/src/main/res/layout/activity_image_based_input_form.xml" value="0.16576086956521738" />
+        <entry key="app/src/main/res/layout/activity_infolist.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/activity_input_value_form_list.xml" value="0.16576086956521738" />
+        <entry key="app/src/main/res/layout/activity_job_detail.xml" value="0.125" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.18840579710144928" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_open_url_pdfactivity.xml" value="0.125" />
+        <entry key="app/src/main/res/layout/activity_pdf_list.xml" value="0.18840579710144928" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.16576086956521738" />
+        <entry key="app/src/main/res/layout/activity_worksheet.xml" value="0.18840579710144928" />
+        <entry key="app/src/main/res/layout/activity_worksheet1.xml" value="0.16757246376811594" />
+        <entry key="app/src/main/res/layout/activity_worksheet_empactivity.xml" value="0.20380434782608695" />
+        <entry key="app/src/main/res/layout/activity_worksheet_empactivity1.xml" value="0.20380434782608695" />
+        <entry key="app/src/main/res/layout/activity_worksheet_empactivity10.xml" value="0.20380434782608695" />
+        <entry key="app/src/main/res/layout/activity_worksheet_empactivity11.xml" value="0.20380434782608695" />
+        <entry key="app/src/main/res/layout/activity_worksheet_empactivity12.xml" value="0.20380434782608695" />
+        <entry key="app/src/main/res/layout/activity_worksheet_empactivity13.xml" value="0.20380434782608695" />
+        <entry key="app/src/main/res/layout/activity_worksheet_empactivity14.xml" value="0.20380434782608695" />
+        <entry key="app/src/main/res/layout/activity_worksheet_empactivity15.xml" value="0.20380434782608695" />
+        <entry key="app/src/main/res/layout/activity_worksheet_empactivity16.xml" value="0.20380434782608695" />
+        <entry key="app/src/main/res/layout/activity_worksheet_empactivity17.xml" value="0.20380434782608695" />
+        <entry key="app/src/main/res/layout/activity_worksheet_empactivity18.xml" value="0.20380434782608695" />
+        <entry key="app/src/main/res/layout/activity_worksheet_empactivity19.xml" value="0.20380434782608695" />
+        <entry key="app/src/main/res/layout/activity_worksheet_empactivity2.xml" value="0.20380434782608695" />
+        <entry key="app/src/main/res/layout/activity_worksheet_empactivity3.xml" value="0.20380434782608695" />
+        <entry key="app/src/main/res/layout/activity_worksheet_empactivity4.xml" value="0.20380434782608695" />
+        <entry key="app/src/main/res/layout/activity_worksheet_empactivity5.xml" value="0.20380434782608695" />
+        <entry key="app/src/main/res/layout/activity_worksheet_empactivity6.xml" value="0.20380434782608695" />
+        <entry key="app/src/main/res/layout/activity_worksheet_empactivity7.xml" value="0.20380434782608695" />
+        <entry key="app/src/main/res/layout/activity_worksheet_empactivity8.xml" value="0.20380434782608695" />
+        <entry key="app/src/main/res/layout/activity_worksheet_empactivity9.xml" value="0.20380434782608695" />
+        <entry key="app/src/main/res/layout/activity_worksheet_jobno_details.xml" value="0.20380434782608695" />
+        <entry key="app/src/main/res/layout/activity_worksheet_jobno_details1.xml" value="0.20380434782608695" />
+        <entry key="app/src/main/res/layout/activity_worksheet_jobno_details10.xml" value="0.20380434782608695" />
+        <entry key="app/src/main/res/layout/activity_worksheet_jobno_details11.xml" value="0.20380434782608695" />
+        <entry key="app/src/main/res/layout/activity_worksheet_jobno_details12.xml" value="0.20380434782608695" />
+        <entry key="app/src/main/res/layout/activity_worksheet_jobno_details13.xml" value="0.20380434782608695" />
+        <entry key="app/src/main/res/layout/activity_worksheet_jobno_details14.xml" value="0.20380434782608695" />
+        <entry key="app/src/main/res/layout/activity_worksheet_jobno_details15.xml" value="0.20380434782608695" />
+        <entry key="app/src/main/res/layout/activity_worksheet_jobno_details16.xml" value="0.20380434782608695" />
+        <entry key="app/src/main/res/layout/activity_worksheet_jobno_details17.xml" value="0.20380434782608695" />
+        <entry key="app/src/main/res/layout/activity_worksheet_jobno_details18.xml" value="0.20380434782608695" />
+        <entry key="app/src/main/res/layout/activity_worksheet_jobno_details19.xml" value="0.20380434782608695" />
+        <entry key="app/src/main/res/layout/activity_worksheet_jobno_details2.xml" value="0.20380434782608695" />
+        <entry key="app/src/main/res/layout/activity_worksheet_jobno_details3.xml" value="0.20380434782608695" />
+        <entry key="app/src/main/res/layout/activity_worksheet_jobno_details4.xml" value="0.20380434782608695" />
+        <entry key="app/src/main/res/layout/activity_worksheet_jobno_details5.xml" value="0.20380434782608695" />
+        <entry key="app/src/main/res/layout/activity_worksheet_jobno_details6ctivity.xml" value="0.20380434782608695" />
+        <entry key="app/src/main/res/layout/activity_worksheet_jobno_details7.xml" value="0.20380434782608695" />
+        <entry key="app/src/main/res/layout/activity_worksheet_jobno_details8.xml" value="0.20380434782608695" />
+        <entry key="app/src/main/res/layout/activity_worksheet_jobno_details9.xml" value="0.20380434782608695" />
+        <entry key="app/src/main/res/layout/activity_worksheet_table_add.xml" value="0.16576086956521738" />
+        <entry key="app/src/main/res/layout/adapter_daily_attendance_table_list.xml" value="0.18840579710144928" />
+        <entry key="app/src/main/res/layout/adapter_fieldlist.xml" value="0.18840579710144928" />
+        <entry key="app/src/main/res/layout/adapter_liftinputlist.xml" value="0.18840579710144928" />
+        <entry key="app/src/main/res/layout/adapter_staticdatalist.xml" value="0.18840579710144928" />
+        <entry key="app/src/main/res/layout/adapter_worksheet.xml" value="0.16757246376811594" />
+        <entry key="app/src/main/res/layout/adapter_worksheet_table_list.xml" value="0.18840579710144928" />
+        <entry key="app/src/main/res/layout/dialog_add_edit_remark.xml" value="0.18840579710144928" />
+        <entry key="app/src/main/res/layout/dialog_time.xml" value="0.18840579710144928" />
+        <entry key="app/src/main/res/menu/menu_attendance.xml" value="0.24270833333333333" />
+        <entry key="app/src/main/res/menu/menu_leave_type.xml" value="0.24270833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="jbr-11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
